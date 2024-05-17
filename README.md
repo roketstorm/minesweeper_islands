@@ -8,13 +8,8 @@ Simple minesweeper game written in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Objective:** The goal is to uncover all non-mine cells on the board.
+**Game Field:** The game field consists of a grid of clickable cells. Some cells hide mines, while others are safe.
+**Numbers:** Each cell with a number indicates how many neighboring cells (including diagonals) have mines. Use this information to deduce mine locations.
+**Left Click:** Tap or Left-click on a cell to reveal it.
+**Winning:** Clear all non-mine cells to win.
