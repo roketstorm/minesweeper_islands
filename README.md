@@ -13,3 +13,9 @@ Simple minesweeper game written in Flutter
 - **Numbers:** Each cell with a number indicates how many neighboring cells (including diagonals) have mines. Use this information to deduce mine locations.
 - **Left Click:** Tap or Left-click on a cell to reveal it.
 - **Winning:** Clear all non-mine cells to win.
+
+## Screenshots
+
+![Screenshot_1715953462](https://github.com/roketstorm/minesweeper_islands/assets/18070124/02c886a6-4a03-4455-a989-623abcc8a137)
+
+![Screenshot_1715953470](https://github.com/roketstorm/minesweeper_islands/assets/18070124/92c34e50-bac4-4c00-9312-2aedb6979b44)
