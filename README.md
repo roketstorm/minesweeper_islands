@@ -1,6 +1,8 @@
-# minesweeper_islands
+# MINESWEEPER: Treasure Islands
 
-A new Flutter project.
+Simple minesweeper game written in Flutter
+
+![Запись экрана 2024-05-17 в 17 44 33](https://github.com/roketstorm/minesweeper_islands/assets/18070124/adb3f3f2-3aa8-4d58-87e3-a434cc70f6bd)
 
 ## Getting Started
 
