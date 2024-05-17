@@ -1,6 +1,6 @@
 # MINESWEEPER: Treasure Islands
 
-![](https://img.shields.io/badge/Flutter-3.19.6-02569B?logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Flutter-3.19.5-02569B?logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-3.3.3-02569B?logo=flutter&logoColor=white)
 
 Simple minesweeper game written in Flutter
 
