@@ -16,6 +16,6 @@ Simple minesweeper game written in Flutter
 
 ## Screenshots
 
-![Screenshot_1715953462](https://github.com/roketstorm/minesweeper_islands/assets/18070124/02c886a6-4a03-4455-a989-623abcc8a137)
+<img src="https://github.com/roketstorm/minesweeper_islands/assets/18070124/02c886a6-4a03-4455-a989-623abcc8a137" alt="menu" style="width:300px;"/>
 
-![Screenshot_1715953470](https://github.com/roketstorm/minesweeper_islands/assets/18070124/92c34e50-bac4-4c00-9312-2aedb6979b44)
+<img src="https://github.com/roketstorm/minesweeper_islands/assets/18070124/92c34e50-bac4-4c00-9312-2aedb6979b44" alt="gameplay" style="width:300px;"/>
